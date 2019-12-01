@@ -1,0 +1,23 @@
+img {
+  border-radius: 100%;
+}
+
+hr {
+  border-color: grey;
+}
+
+h1 {
+  color: #66bfbf
+}
+
+h3 {
+  color: #66bfbf
+}
+
+.personal-information {
+  position: fixed;
+  top: 0;
+}
+.work-experience {
+  margin-top: 350px;
+}
